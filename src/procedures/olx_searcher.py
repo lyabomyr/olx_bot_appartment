@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 
 
-
 def search_olx_apartments(city: str, min_price: int, max_price: int, num_rooms: str) -> list:
     products = []
 

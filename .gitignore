@@ -1,0 +1,11 @@
+# Ignore the .idea directory (usually used by JetBrains IDEs like PyCharm)
+.idea/
+
+# Ignore the .venv directory (usually used for virtual environments)
+.venv/
+
+# Ignore __pycache__ directories
+.src/__pycache__/
+.src/config/__pycache__/
+.src/dao/__pycache__/
+.src/procedures/__pycache__/
